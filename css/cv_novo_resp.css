@@ -751,7 +751,7 @@ aside a:hover {
   
 /*Link ativo/selecionado*/
 aside a:active {
-    color: #646405;
+    color: yellow;
     text-decoration: none;
 }
 
