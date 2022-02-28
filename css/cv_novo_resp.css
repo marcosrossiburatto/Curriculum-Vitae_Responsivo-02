@@ -98,7 +98,6 @@ nav {
 }
 
 .material-icons.icon_color_nav {
-    color: #11607c;
     font-size: 1vw;
     font-weight: 500;
 }
@@ -827,7 +826,6 @@ aside a:active {
 }
 
 .material-icons.icon_color_aside {
-    color: #fff;
     font-size: 1vw;
     font-weight: 500;
 }
